@@ -1,3 +1,4 @@
+//HALO INI HASIL KOMENTAR
 
 package main
 
@@ -6,7 +7,7 @@ import "fmt"
 const NMAX int = 100
 
 type Time struct {
-	menit int
+	menit int //menyimpan jumlah menit
 	detik int
 }
 
